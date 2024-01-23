@@ -146,6 +146,14 @@
     border-radius: 1rem;
 }
 
+.pagination button:hover{
+    transition-delay: 0.06s;
+    filter: brightness(1.2);
+    cursor: pointer;
+    box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+    
+}
+
 @media screen and (min-width: 380px) {
     .pokemons {
         grid-template-columns: 1fr 1fr;
