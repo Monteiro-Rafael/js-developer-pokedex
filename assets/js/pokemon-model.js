@@ -9,9 +9,6 @@ class Pokemon {
     height;
     weight;
     abilities;
-    gender;
-    eggGroups;
-    eggCycle;
     hp;
     attack;
     defense;

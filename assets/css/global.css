@@ -7,6 +7,10 @@ body {
     background-color: #f6f8fc;
 }
 
+div {
+    display: flex;
+}
+
 .content {
     width: 100vw;
     height: 100vh;
