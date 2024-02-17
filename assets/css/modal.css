@@ -48,6 +48,13 @@
     color: #888;
 }
 
+.cabecalho-modal-fechar:hover{
+    color: red;
+    filter: opacity(0.9);
+    transform: scale(1.15);
+    transition: 250ms;
+}
+
 .corpo-modal {
     box-sizing: border-box;
     overflow: visible;
@@ -131,6 +138,10 @@
 
 .ghost {
     background-color: #6e5896;
+}
+
+.normal {
+    background-color: #a6a877;
 }
 
 .steel {
