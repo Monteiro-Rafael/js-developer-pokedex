@@ -95,14 +95,7 @@ function abrirModal(pokehp
     </div>
 </div>
     `
-
     bodyContent.innerHTML+= newHtml
-
-    console.log(pokeType)
-    console.log(pokeName)
-    // console.log("HP = " + pokemon.hp)
-    // console.log("Attack = " + pokemon.attack)
-    
 
 }
 
